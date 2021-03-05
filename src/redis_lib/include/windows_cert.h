@@ -1,7 +1,3 @@
-//
-// Created by nmuravev on 2/26/2021.
-//
-
 #ifndef REDISNATIVE_WINDOWS_CERT_H
 #define REDISNATIVE_WINDOWS_CERT_H
 
